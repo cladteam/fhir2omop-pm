@@ -1,4 +1,4 @@
-# fhir2omop-pm
+# FHIR to OMOP Mapping Project Plan
 
 Repo for tracking overall FHIR to OMOP mapping project tasks
 
@@ -6,4 +6,4 @@ Repo for tracking overall FHIR to OMOP mapping project tasks
 
 **Implementation Team:** Stephanie, Andrew, Bryan, Yvette, Tanner
 
-Folder with docs for mapping: https://drive.google.com/drive/folders/1PfWYJyxDBZJi2h1neVJ2R_CQfYXcHYzt
+[FHIR to OMOP Mapping Folder](https://drive.google.com/drive/folders/1PfWYJyxDBZJi2h1neVJ2R_CQfYXcHYzt) | [Meeting Notes](https://docs.google.com/document/d/1MU0pkbG1pSHXD5ijIhpE3YgIwje0NmXdjx6mZXLQmaU/edit)
